@@ -14,7 +14,8 @@ O repositório reúne os *notebooks* desenvolvidos na plataforma **Google Colab*
 
 | Arquivo / Diretório | Descrição das Atividades |
 | :--- | :--- |
-| `Exercícios_Python...` | Notebook contendo os exercícios práticos desenvolvidos em Python (incluindo o Exercício 20 - Agrupamento e cálculo de mediana por categoria). |
+| `Atividades_de_Data_Science_NumPy,_SciPy...` | Notebook com exercícios práticos de Data Science utilizando as bibliotecas NumPy, SciPy e Pandas (incluindo manipulation de DataFrames, interpolação, agrupamentos e estatísticas). |
+| `Exercícios_Python...` | Notebook contendo os exercícios práticos iniciais desenvolvidos em Python. |
 | `README.md` | Documentação oficial de apresentação e estrutura do repositório. |
 
 *Nota: Este repositório será atualizado continuamente com a inclusão dos novos notebooks desenvolvidos ao decorrer do período letivo.*
@@ -28,11 +29,6 @@ O repositório reúne os *notebooks* desenvolvidos na plataforma **Google Colab*
 * **Plataforma de Versionamento:** GitHub
 
 ---
-
-##  Autoria
-
-* **Discente:** Samuel
-* **Usuário GitHub:** `samuel76-art`
 
 ##  Autoria
 
